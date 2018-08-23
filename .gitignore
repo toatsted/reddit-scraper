@@ -1,0 +1,9 @@
+node_modules/
+
+spreadsheets/
+
+*.xlsx
+*/*.xlsx
+
+.DS_Store
+*/.DS_Store

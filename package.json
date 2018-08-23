@@ -1,0 +1,11 @@
+{
+  "name": "reddit-scraper",
+  "version": "1.0.0",
+  "description": "scrape reddit",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
