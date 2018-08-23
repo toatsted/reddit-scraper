@@ -59,3 +59,5 @@ if(process.argv[2]) {
     scrape(answers.subreddit.trim());
   })
 }
+
+module.exports = scrape;
